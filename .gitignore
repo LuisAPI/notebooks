@@ -1,5 +1,6 @@
 .jupyter/
 .ipynb_checkpoints/
+desktop.ini
 
 # Certificate of Registration is sensitive
 Imperial_CSIS311_Library_Book,Rcpt,COR.docx
