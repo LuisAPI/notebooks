@@ -1,5 +1,8 @@
-.jupyter/
 .ipynb_checkpoints/
+.jupyter/
+.vscode/
+__pycache__/
+*.pyc
 desktop.ini
 
 # Certificate of Registration is sensitive
